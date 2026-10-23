@@ -5,6 +5,7 @@ description = "Arbiter is a Python library for evaluating and comparing generati
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "certifi>=2026.10.19",
     "click>=8.0.0",
     "httpx>=0.28.1",
     "numpy==2.2.6",
